@@ -1,4 +1,4 @@
-# 2.5D_DATMO
+# 2.5D DATMO
 
 2.5D Grid-based Detection and Tracking of Moving Objects (DATMO)
 
