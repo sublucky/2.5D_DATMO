@@ -6,6 +6,8 @@ A DATMO approach is proposed based on motion grids. The motion grids is achieved
 
 https://youtu.be/3jZ8znHyWts
 
+![picture2](https://user-images.githubusercontent.com/5465785/43979909-2e6cbddc-9ce4-11e8-9992-f73ce7323cfc.png)
+
 The algorithm is described in:
 
 A. Asvadi, P. Peixoto, and U. Nunes, “Detection and Tracking of Moving Objects Using 2.5D Motion Grids,” In IEEE 18th International Conference on Intelligent Transportation Systems (ITSC 2015), pp. 788 – 793, Las Palmas, Spain, 2015. DOI: 10.1109/ITSC.2015.133
